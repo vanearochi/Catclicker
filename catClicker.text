@@ -1,0 +1,20 @@
+
+1 Create an array of cats names - Model
+2 function that creates cats objects (name, image and counter)- octopus
+3 array of cats objects - Model
+4 function that storage the cats objects on the Model array - Octopus
+5 click function for increasing the counter - octopus (iife?)
+6 click function for buttons - octopus (iife?)
+7 render when click - view
+8 render buttons list -view
+
+Necsito un div container con: 2 div: 1 con la imagen el 2o con nombre y click counter
+el contenido del container cambia dependiendo el click en el nombre y el del counter con el click al gato
+
+
+
+//selected cat: changes when img is clicked call a function that choose the selected cat and change the counter then pass that value to change counter value
+
+function that when admin button is clicked call showform function
+Show form function
+function that takes the values when submiting
